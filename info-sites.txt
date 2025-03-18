@@ -1,0 +1,32 @@
+Free static content hosting:
+gitlab.com
+github.com
+netlify.com
+cloudflare.com
+surge.sh
+codeberg.com
+vercel.com
+
+
+Page examples:
+https://github.com/foundation/foundation-sites
+https://golemverse.org/news/skeleteon-css-in-shiny/
+https://github.com/getskeleton/Skeleton
+https://github.com/jishanshaikh4/jishanshaikh4.github.io
+https://github.com/themefisher/meghna-hugo?tab=readme-ov-file
+https://github.com/StartBootstrap/startbootstrap-one-page-wonder
+https://www.reddit.com/r/webdev/comments/xr1bqp/what_is_your_goto_site_for_pure_html_templates/
+
+Other:
+https://www.reddit.com/r/web_design/comments/120lc9z/how_do_i_make_a_crisp_favicon/
+https://fontawesome.com/
+https://www1.ucdenver.edu/docs/librariesprovider29/college-of-engineering-and-applied-science/web-resources/cheatsheet-_-font-awesome.pdf
+https://www.w3schools.com/icons/fontawesome5_intro.asp#:~:text=To%20use%20the%20Free%20Font,Awesome%20to%20your%20web%20page.
+https://www.reddit.com/r/css/comments/buwtof/styling_an_embedded_google_calendar_beginner/
+
+UChciago Tango Links:
+https://www.youtube.com/@uofcatc
+https://www.youtube.com/@UChicagoTangoClub
+https://www.facebook.com/groups/42208194152
+https://www.facebook.com/uchicagotangofestival/
+https://www.instagram.com/uchicagotango/
