@@ -7,7 +7,6 @@ surge.sh
 codeberg.com
 vercel.com
 
-
 Page examples:
 https://github.com/foundation/foundation-sites
 https://golemverse.org/news/skeleteon-css-in-shiny/
@@ -16,6 +15,14 @@ https://github.com/jishanshaikh4/jishanshaikh4.github.io
 https://github.com/themefisher/meghna-hugo?tab=readme-ov-file
 https://github.com/StartBootstrap/startbootstrap-one-page-wonder
 https://www.reddit.com/r/webdev/comments/xr1bqp/what_is_your_goto_site_for_pure_html_templates/
+
+QR codes:
+For iOS: https://apps.apple.com/us/app/qr-pro-easy-qr-code-scanner/id1013912824
+For web-based: https://qr-creator.com/
+For Android: https://play.google.com/store/apps/details?id=com.gamma.scan
+https://qr.grid.ws/
+https://new.express.adobe.com/tools/generate-qr-code
+
 
 Other:
 https://www.reddit.com/r/web_design/comments/120lc9z/how_do_i_make_a_crisp_favicon/
